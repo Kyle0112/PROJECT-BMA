@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725426856504",
+    "project_id": "budgetapp-7b1df",
+    "storage_bucket": "budgetapp-7b1df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725426856504:android:67d243894cfb662f353ccd",
+        "android_client_info": {
+          "package_name": "com.example.thesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725426856504-55vrc6qt169irndpehfd9ofms3l7o47e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyX6tJbaR8R5LEEkIMidrpZfTacOuvJRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725426856504-55vrc6qt169irndpehfd9ofms3l7o47e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
